@@ -19,6 +19,6 @@ This is a command-line tool to list Amazon S3 buckets in different AWS regions, 
 2. Navigate to the project directory.
 
 ```sh
-cd easy-config/aws/s3
+cd easy-config/aws/s3/v3
 nvm use 20.11 && node index.mjs
 ```
