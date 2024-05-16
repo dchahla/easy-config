@@ -20,3 +20,5 @@ This is a command-line tool to list Amazon S3 buckets in different AWS regions, 
 
 ```sh
 cd easy-config/aws/s3
+nvm use 20.11 && node index.mjs
+
